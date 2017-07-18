@@ -38,3 +38,8 @@ h3 {
 .info {
   font-size: 14px;
 }
+
+/* Work, Team and Contact Section */
+.NY {
+  background-image: url(../images/the-flatiron-building.png);
+}
