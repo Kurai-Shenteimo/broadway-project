@@ -6,20 +6,31 @@
 }
 
 /* Top Navigation Tree */
-
 .tnav {
   background-image: url(../images/the-flatiron-building.png);
 }
 
-.main, .top, .bnav {
+.NY, .main, .top, .bnav {
   color: White;
+}
+
+#about, .main, .top, h3 {
+  font-weight: bold;
 }
 
 .main {
   font-size: 70px;
-  font-weight: bold;
 }
 
-.top {
+.top, .bnav {
   font-size: 18px;
+}
+
+/* About Section */
+#about {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
 }
