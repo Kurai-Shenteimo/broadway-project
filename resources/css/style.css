@@ -10,7 +10,7 @@
   background-image: url(../images/the-flatiron-building.png);
 }
 
-.NY, .main, .top, .bnav {
+.NY, .main, .top, .bnav, .copy {
   color: White;
 }
 
@@ -42,4 +42,16 @@ h3 {
 /* Work, Team and Contact Section */
 .NY {
   background-image: url(../images/the-flatiron-building.png);
+}
+
+#bot {
+  text-align: left;
+}
+
+.footer {
+  background-color: Dimgray;
+}
+
+.copy {
+  font-size: 11px;
 }
