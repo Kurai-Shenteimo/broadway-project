@@ -1,11 +1,25 @@
-/* Grouped all elements */
+/* Properties that are shared across all elements */
 * {
   font-family: Helvetica, sans-serif;
   text-align: center;
+/*:link {color: White;} To target all links*/
 }
 
-/* Top navigation bar */
-#home {
+/* Top Navigation Tree */
+
+.tnav {
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.main, .top, .bnav {
+  color: White;
+}
+
+.main {
   font-size: 70px;
   font-weight: bold;
+}
+
+.top {
+  font-size: 18px;
 }
